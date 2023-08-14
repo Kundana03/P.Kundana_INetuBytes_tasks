@@ -1,7 +1,7 @@
 # P.Kundana_INetuBytes_tasks
 # Task 1:
 # IRIS Dataset
-step 1:Importing of librabies
+step 1:Importing of libraries
 step 2: Load and explore the Dataset
 step 3: Fetching starting five elements of the dataset
 step 4: Displaying stats about the data
@@ -17,7 +17,7 @@ step 13: Decision tree
 
 # Task 2:
 # Cifar 10 dataset
-step 1:Importing of librabies
+step 1:Importing of libraries
 step 2: Load and explore the Dataset
 step 3:Reshape
 step 4: Observing the dataset
@@ -31,7 +31,7 @@ step 11: Confusion matrix
 
 # Major task:
 # IMDb dataset
-step 1:Importing of librabies
+step 1:Importing of libraries
 step 2: Data preparation
 step 3:Text preprocessing(stemming,lemmatization)
 step 4: Tokenization
